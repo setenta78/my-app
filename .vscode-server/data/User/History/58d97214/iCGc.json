@@ -1,0 +1,14 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.iconTheme": "vscode-icons",
+    "explorer.confirmDelete": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "files.autoSave": "afterDelay",
+    "remote.SSH.remotePlatform": {
+        "162.243.255.19": "linux",
+        "137.184.153.89": "linux",
+        "142.93.118.145": "linux",
+        "68.183.133.201": "linux",
+        "206.189.196.2": "linux"
+    }
+}

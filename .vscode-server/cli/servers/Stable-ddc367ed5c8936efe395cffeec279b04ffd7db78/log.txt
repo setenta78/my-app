@@ -1,0 +1,36 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to /tmp/code-743d1cb8-cc74-4ca7-bd39-96a77969cbf6
+Extension host agent listening on /tmp/code-743d1cb8-cc74-4ca7-bd39-96a77969cbf6
+
+[18:13:57] 
+
+
+
+
+[18:13:57] Extension host agent started.
+[18:13:57] Started initializing default profile extensions in extensions installation folder. file:///home/my-app/.vscode-server/extensions
+[18:13:57] Completed initializing default profile extensions in extensions installation folder. file:///home/my-app/.vscode-server/extensions
+[18:13:57] [<unknown>][bb059661][ManagementConnection] New connection established.
+[18:13:57] [<unknown>][fb434ffa][ExtensionHostConnection] New connection established.
+[18:13:57] [<unknown>][fb434ffa][ExtensionHostConnection] <3990> Launched Extension Host Process.
+[18:14:43] [<unknown>][bb059661][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[18:14:43] [<unknown>][fb434ffa][ExtensionHostConnection] <3990> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[18:14:43] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[18:14:43] Last EH closed, waiting before shutting down
+[18:14:50] [<unknown>][d151f9af][ExtensionHostConnection] New connection established.
+[18:14:50] [<unknown>][83fc7f21][ManagementConnection] New connection established.
+[18:14:50] [<unknown>][d151f9af][ExtensionHostConnection] <4109> Launched Extension Host Process.
+[18:16:37] [<unknown>][83fc7f21][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[18:16:37] [<unknown>][d151f9af][ExtensionHostConnection] <4109> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[18:16:37] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[18:16:37] Last EH closed, waiting before shutting down

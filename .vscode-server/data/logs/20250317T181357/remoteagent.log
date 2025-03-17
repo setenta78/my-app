@@ -1,0 +1,35 @@
+2025-03-17 18:13:57.230 [info] 
+
+
+
+
+2025-03-17 18:13:57.243 [info] Extension host agent started.
+2025-03-17 18:13:57.299 [info] Started initializing default profile extensions in extensions installation folder. file:///home/my-app/.vscode-server/extensions
+2025-03-17 18:13:57.310 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/my-app/.vscode-server/extensions
+2025-03-17 18:13:57.783 [info] [<unknown>][bb059661][ManagementConnection] New connection established.
+2025-03-17 18:13:57.785 [info] [<unknown>][fb434ffa][ExtensionHostConnection] New connection established.
+2025-03-17 18:13:57.958 [info] [<unknown>][fb434ffa][ExtensionHostConnection] <3990> Launched Extension Host Process.
+2025-03-17 18:14:43.642 [info] [<unknown>][bb059661][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-03-17 18:14:43.684 [info] [<unknown>][fb434ffa][ExtensionHostConnection] <3990> Extension Host Process exited with code: 0, signal: null.
+2025-03-17 18:14:43.685 [info] Cancelling previous shutdown timeout
+2025-03-17 18:14:43.685 [info] Last EH closed, waiting before shutting down
+2025-03-17 18:14:50.653 [info] [<unknown>][d151f9af][ExtensionHostConnection] New connection established.
+2025-03-17 18:14:50.653 [info] [<unknown>][83fc7f21][ManagementConnection] New connection established.
+2025-03-17 18:14:50.657 [info] [<unknown>][d151f9af][ExtensionHostConnection] <4109> Launched Extension Host Process.
+2025-03-17 18:16:37.874 [info] [<unknown>][83fc7f21][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-03-17 18:16:37.906 [info] [<unknown>][d151f9af][ExtensionHostConnection] <4109> Extension Host Process exited with code: 0, signal: null.
+2025-03-17 18:16:37.906 [info] Cancelling previous shutdown timeout
+2025-03-17 18:16:37.907 [info] Last EH closed, waiting before shutting down
+2025-03-17 18:17:00.101 [info] [<unknown>][f49d8846][ExtensionHostConnection] New connection established.
+2025-03-17 18:17:00.103 [info] [<unknown>][4fc9737a][ManagementConnection] New connection established.
+2025-03-17 18:17:00.106 [info] [<unknown>][f49d8846][ExtensionHostConnection] <4291> Launched Extension Host Process.
+2025-03-17 18:17:00.109 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///home/my-app/.vscode-server/cli/servers/Stable-ddc367ed5c8936efe395cffeec279b04ffd7db78/server/out/server-main.js:183:1060)
+    at process.emit (node:events:530:35)
+2025-03-17 18:17:07.120 [info] [<unknown>][4fc9737a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-03-17 18:17:07.151 [info] [<unknown>][f49d8846][ExtensionHostConnection] <4291> Extension Host Process exited with code: 0, signal: null.
+2025-03-17 18:17:07.152 [info] Cancelling previous shutdown timeout
+2025-03-17 18:17:07.152 [info] Last EH closed, waiting before shutting down
+2025-03-17 18:17:14.602 [info] [<unknown>][9ffdb53d][ExtensionHostConnection] New connection established.
+2025-03-17 18:17:14.605 [info] [<unknown>][9ffdb53d][ExtensionHostConnection] <4395> Launched Extension Host Process.
+2025-03-17 18:17:14.605 [info] [<unknown>][2e03c3b8][ManagementConnection] New connection established.

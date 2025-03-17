@@ -3,4 +3,4 @@
 *.log
 certs/
 *.pem
-*.key
+*.key.ssh/

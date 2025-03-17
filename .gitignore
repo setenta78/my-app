@@ -1,3 +1,6 @@
 .vscode-server/
 .gitconfig
 *.log
+certs/
+*.pem
+*.key

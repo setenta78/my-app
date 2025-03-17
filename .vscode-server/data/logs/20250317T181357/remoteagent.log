@@ -33,3 +33,11 @@
 2025-03-17 18:17:14.602 [info] [<unknown>][9ffdb53d][ExtensionHostConnection] New connection established.
 2025-03-17 18:17:14.605 [info] [<unknown>][9ffdb53d][ExtensionHostConnection] <4395> Launched Extension Host Process.
 2025-03-17 18:17:14.605 [info] [<unknown>][2e03c3b8][ManagementConnection] New connection established.
+2025-03-17 18:22:07.152 [info] New EH opened, aborting shutdown
+2025-03-17 18:31:12.539 [info] [<unknown>][2e03c3b8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-03-17 18:31:12.614 [info] [<unknown>][9ffdb53d][ExtensionHostConnection] <4395> Extension Host Process exited with code: 0, signal: null.
+2025-03-17 18:31:12.615 [info] Last EH closed, waiting before shutting down
+2025-03-17 18:31:20.021 [info] [<unknown>][f80f04bb][ExtensionHostConnection] New connection established.
+2025-03-17 18:31:20.022 [info] [<unknown>][315dcd06][ManagementConnection] New connection established.
+2025-03-17 18:31:20.025 [info] [<unknown>][f80f04bb][ExtensionHostConnection] <6889> Launched Extension Host Process.
+2025-03-17 18:36:12.615 [info] New EH opened, aborting shutdown
